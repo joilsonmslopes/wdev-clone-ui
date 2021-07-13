@@ -6,3 +6,19 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.socialLink {
+    border: 2px solid var(--color-text-light);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+
+.socialLink img {
+    width: 100%;
+    max-width: 20px;
+}
