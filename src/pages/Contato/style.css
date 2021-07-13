@@ -1,0 +1,36 @@
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.contact {
+    margin-bottom: 24px;
+}
+
+h2.contact-title {
+    font-size: 24px;
+    color: var(--color-text-dark);
+    margin-bottom: 12px;
+}
+
+a.link {
+    font-size: 18px;
+    color: var(--color-text-dark);
+}
+
+/* @media screen and (min-width: 576px) {
+    .videos {
+        justify-content: space-between;
+    }
+    .videos .video {
+        width: 48%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .videos .video {
+        width: 30%;
+    }
+} */

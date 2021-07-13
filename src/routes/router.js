@@ -7,6 +7,8 @@ Vue.use(VueRouter);
 // para criar as rotas, é necessario ter os components importados
 import Home from '@/pages/Home';
 import Videos from '@/pages/Videos';
+import Sobre from '@/pages/Sobre';
+import Contato from '@/pages/Contato';
 
 // definindo nossas rotas
 const routes = [
@@ -17,6 +19,14 @@ const routes = [
     {
         path: '/videos',
         component: Videos
+    },
+    {
+        path: '/sobre',
+        component: Sobre
+    },
+    {
+        path: '/contato',
+        component: Contato
     }
 ];
 

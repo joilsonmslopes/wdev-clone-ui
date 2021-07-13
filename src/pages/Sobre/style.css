@@ -1,0 +1,27 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+p {
+    font-size: 18px;
+    color: var(--color-text-dark);
+    margin-bottom: 40px;
+}
+
+/* @media screen and (min-width: 576px) {
+    .videos {
+        justify-content: space-between;
+    }
+    .videos .video {
+        width: 48%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .videos .video {
+        width: 30%;
+    }
+} */
