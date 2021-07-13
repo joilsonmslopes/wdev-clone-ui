@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="WDEV Logo" height="50" title="WDEV Logo" src="https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/images/wdev.svg
-" />
+  <img alt="WDEV Logo" height="40" title="WDEV Logo" src="./src/assets/wdev.svg" />
 </h1>
 
 ![cover](./src/assets/screenshot.png)
